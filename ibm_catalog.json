@@ -24,7 +24,20 @@
             "support_details": "This is a demonstration and no official support is given.",
             "flavors": [
                 {
-                    "label": "BabySLZ",
+                    "label": "my baby variation",
+                    "label_i18n": {
+                        "en": "my baby variation",
+                        "de": "my baby variation",
+                        "es": "my baby variation",
+                        "fr": "my baby variation",
+                        "de": "my baby variation",
+                        "it": "my baby variation",
+                        "ja": "my baby variation",
+                        "ko": "my baby variation",
+                        "pt-br": "my baby variation",
+                        "zh-tw": "my baby variation",
+                        "zh-cn": "my baby variation"
+                    },
                     "name": "babyslz",
                     "install_type": "fullstack",
                     "working_directory": "solutions/custom-slz",
